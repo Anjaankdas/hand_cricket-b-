@@ -28,7 +28,7 @@ while (i < options.length) {
       if (pPoints >= 50) {
         //player win
         if(pPoints>cPoints){
-        return window.location.href = "http://127.0.0.1:5501/winner.html"; 
+        return window.location.href = "file:///D:/html/hand_cricket(b)/HandCricket/winner.html"; 
         }
         //computer win
        if(cPoints>pPoints){
